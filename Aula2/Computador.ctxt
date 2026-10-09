@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Computador
+comment1.params=marca\ modelo\ memoriaRAM\ preco
+comment1.target=Computador(java.lang.String,\ java.lang.String,\ int,\ double)
+comment2.params=
+comment2.target=void\ ligar()
+comment3.params=
+comment3.target=void\ desligar()
+comment4.params=
+comment4.target=void\ exibirInformacoes()
+numComments=5

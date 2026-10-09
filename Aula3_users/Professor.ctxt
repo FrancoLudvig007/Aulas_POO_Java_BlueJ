@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Professor
+comment1.params=
+comment1.target=Professor()
+comment10.params=
+comment10.target=java.lang.String\ getRegimeTrabalho()
+comment11.params=regimeTrabalho
+comment11.target=void\ setRegimeTrabalho(java.lang.String)
+comment12.params=
+comment12.target=java.util.List\ getTurmasAtivas()
+comment2.params=matricula\ nome\ login\ senha\ departamento\ titulacao\ regimeTrabalho
+comment2.target=Professor(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=codigoTurma
+comment3.target=void\ vincularTurma(java.lang.String)
+comment4.params=codigoTurma
+comment4.target=boolean\ desvincularTurma(java.lang.String)
+comment5.params=
+comment5.target=int\ getTotalTurmas()
+comment6.params=
+comment6.target=java.lang.String\ getDepartamento()
+comment7.params=departamento
+comment7.target=void\ setDepartamento(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getTitulacao()
+comment9.params=titulacao
+comment9.target=void\ setTitulacao(java.lang.String)
+numComments=13
